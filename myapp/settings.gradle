@@ -10,3 +10,4 @@
 rootProject.name = "registraduriaApp"
 include 'client'
 include 'server'
+include 'database'
