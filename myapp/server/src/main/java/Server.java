@@ -9,7 +9,6 @@ import java.nio.file.Paths;
 import java.util.List;
 import java.util.ArrayList;
 import Demo.*;
-import java.util.Random;
 
 
 
@@ -35,15 +34,15 @@ public class Server {
 
             // run(communicator, extraArgs.toArray(new String[extraArgs.size()]));
             scanner=new Scanner(System.in);
-            consulta = new Consulta();
+            consulta = new Consulta(args);
             System.out.println("Conexion exitosa a la base de datos");
             menu();
             
         }
         finally {
-            consulta.disconect();
             scanner.close(); 
-            communicator.destroy(); 
+            // communicator.destroy(); 
+            consulta.disconect();
             System.out.println("Desconexion base de datos");
         }
     }
@@ -99,7 +98,7 @@ public class Server {
             case 2:
                 System.out.println("Ingresa un numero de documentos ");
                 int documento=scanner.nextInt();
-                consulta.writeDocument(documento);
+                consulta.findInfoById(documento);
                 break;
             default :
                 System.out.println("Opcion incorrecta");
@@ -187,6 +186,23 @@ public class Server {
     }
     
 
+
+    
+    /*
+     * Metodo que calcula los factores
+     */
+    public static String findfactors(int n  ){
+        String factores="[";
+        for (long i = 2; i <= n; i++) {
+            while (n % i == 0) {
+                factores+=i+" ";
+                n /= i;
+            }
+        }
+        factores+="]";
+        return factores.toString();
+    }
+
     public static void leerArchivo2(String ruta) {
         BufferedReader reader = null;
         try { 
@@ -209,19 +225,5 @@ public class Server {
             }
         }
     }
-    
-    /*
-     * Metodo que calcula los factores
-     */
-    public static String findfactors(int n  ){
-        String factores="[";
-        for (long i = 2; i <= n; i++) {
-            while (n % i == 0) {
-                factores+=i+" ";
-                n /= i;
-            }
-        }
-        factores+="]";
-        return factores.toString();
-    }
+
 }

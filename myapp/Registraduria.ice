@@ -5,6 +5,6 @@ module Demo{
     }
 
     interface QueryService {
-        string consult(string document);
+        string consult(int document);
     }
 }

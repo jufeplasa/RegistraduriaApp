@@ -15,11 +15,15 @@ public class Database {
                     System.out.println(v);
                 }
             }
-            com.zeroc.Ice.ObjectAdapter adapter = communicator.createObjectAdapter("Query");
-            com.zeroc.Ice.Object object = new QueryServiceI();
-            adapter.add(object, com.zeroc.Ice.Util.stringToIdentity("QueryService"));
+            com.zeroc.Ice.ObjectAdapter adapter = communicator.createObjectAdapter("QueryService");
+            QueryServiceI queryService = new QueryServiceI();
+            com.zeroc.Ice.Object object = queryService;
+            adapter.add(object, com.zeroc.Ice.Util.stringToIdentity("SimpleQueryService"));
             adapter.activate();
-
+            Runtime.getRuntime().addShutdownHook(new Thread(() -> {
+                System.out.println("Intercepted shutdown signal. Closing resources...");
+                queryService.disconect();
+            }));
             communicator.waitForShutdown();
         }
     }

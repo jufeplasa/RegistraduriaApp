@@ -2,7 +2,7 @@
 # "Query". The following line sets the endpoints for this
 # adapter.
 #
-Query.Endpoints=tcp -p 10800
+QueryService.Endpoints=tcp -p 11800
 #
 # Listen on all available interfaces
 #
