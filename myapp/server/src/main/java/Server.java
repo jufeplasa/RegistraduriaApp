@@ -29,11 +29,11 @@ public class Server {
         java.util.List<String> extraArgs = new java.util.ArrayList<String>();
         try
         {
-            communicator = com.zeroc.Ice.Util.initialize(args, "config.pub", extraArgs);
-            communicator.getProperties().setProperty("Ice.Default.Package", "com.zeroc.demos.IceStorm.clock");
-            Runtime.getRuntime().addShutdownHook(new Thread(() -> communicator.destroy()));
+            // communicator = com.zeroc.Ice.Util.initialize(args, "config.pub", extraArgs);
+            // communicator.getProperties().setProperty("Ice.Default.Package", "com.zeroc.demos.IceStorm.clock");
+            // Runtime.getRuntime().addShutdownHook(new Thread(() -> communicator.destroy()));
 
-            run(communicator, extraArgs.toArray(new String[extraArgs.size()]));
+            // run(communicator, extraArgs.toArray(new String[extraArgs.size()]));
             scanner=new Scanner(System.in);
             consulta = new Consulta();
             System.out.println("Conexion exitosa a la base de datos");
@@ -89,12 +89,17 @@ public class Server {
         switch (option) {
             case 1:
                 System.out.println("Implementacion de muchas consultas por un archivo");
-                leerArchivo("C:\\Users\\jufep\\OneDrive\\Escritorio\\11vo semestre\\ingesoft4\\proyecto\\Documentos\\100.txt");
+                int text=scanner.nextInt();
+                long startTime = System.currentTimeMillis();
+                leerArchivo2("C:\\Users\\jufep\\OneDrive\\Escritorio\\11vo semestre\\ingesoft4\\proyecto\\Documentos\\"+text+".txt");
+                long endTime = System.currentTimeMillis();
+                long elapsedTime = endTime - startTime;
+                System.out.println("Tiempo de ejecución: " + elapsedTime + " ms");
                 break;
             case 2:
-                System.out.println("Ingresa un numero de cedula ");
+                System.out.println("Ingresa un numero de documentos ");
                 int documento=scanner.nextInt();
-                consulta.findInfoById(documento);
+                consulta.writeDocument(documento);
                 break;
             default :
                 System.out.println("Opcion incorrecta");
@@ -117,7 +122,6 @@ public class Server {
                 if (line.trim().startsWith("files:")) {
                     isSubscriberSection = true;
                 } else if (isSubscriberSection && !line.trim().isEmpty()) {
-                    System.out.println(line);
                     subscribers.add(line.trim());
                 }
             }
@@ -127,7 +131,7 @@ public class Server {
         }
         // Mostrar los suscriptores y el tamaño del ArrayList
         System.out.println("Subscribers: " + subscribers);
-        return null;
+        return subscribers;
     }
     /*
      * Mostrar menu
@@ -140,27 +144,33 @@ public class Server {
     }
 
     public static void leerArchivo(String ruta) {
+        List<String> subscribers = getSubs(); 
         BufferedReader reader = null;
         try { 
-            // Abrir el archivo usando BufferedReader
-            getSubs();
             reader = new BufferedReader(new FileReader(ruta));
             String linea;
             long numeroDeLineas = Files.lines(Paths.get(ruta)).count();
             System.out.println("Numero total de lineas: " + numeroDeLineas);
 
-            byte[] fileBytes = Files.readAllBytes(Paths.get(ruta));
-            
-            // Mostrar el contenido del archivo como texto
-            System.out.println("Contenido del archivo (como texto):");
-            System.out.println(fileBytes); 
-            // Leer línea por línea
+            // Dividir las líneas entre los suscriptores
+            int numSubscribers = subscribers.size();
+            int linesPerSubscriber = (int) Math.ceil((double) numeroDeLineas / numSubscribers);
+
+            int currentSubscriber = 0;
+            int currentLine = 0;
+            file.Share(subscribers.get(currentSubscriber));
             while ((linea = reader.readLine()) != null) {
-                // int documento = Integer.parseInt(linea);
-                // consulta.findInfoById(documento);
                 file.Share(linea);
+                currentLine++;
+                if (currentLine >= linesPerSubscriber) {
+                    currentLine = 0;
+                    currentSubscriber++;
+                    if (currentSubscriber >= numSubscribers) {
+                        currentSubscriber = 0;
+                    }
+                    file.Share(subscribers.get(currentSubscriber));
+                }
             }
-            
         } catch (IOException e) {
             // Manejo de errores
             System.out.println("Error al leer el archivo: " + e.getMessage());
@@ -177,7 +187,29 @@ public class Server {
     }
     
 
-
+    public static void leerArchivo2(String ruta) {
+        BufferedReader reader = null;
+        try { 
+            reader = new BufferedReader(new FileReader(ruta));
+            String linea;
+            while ((linea = reader.readLine()) != null) {
+                int documento = Integer.parseInt(linea);
+                consulta.findInfoById(documento);
+            }
+        } catch (IOException e) {
+            // Manejo de errores
+            System.out.println("Error al leer el archivo: " + e.getMessage());
+        }finally {
+            try {
+                if (reader != null) {
+                    reader.close();
+                }
+            } catch (IOException e) {
+                System.out.println("Error al cerrar el archivo: " + e.getMessage());
+            }
+        }
+    }
+    
     /*
      * Metodo que calcula los factores
      */

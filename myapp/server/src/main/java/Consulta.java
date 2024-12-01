@@ -1,3 +1,6 @@
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -58,6 +61,41 @@ public class Consulta {
         e.printStackTrace();
         System.out.println("Error en consulta");
     }
+    }
+
+    public void writeDocument(int limite) {
+        String query = "SELECT documento FROM Ciudadano LIMIT ?;";
+        BufferedWriter writer = null;
+        try {
+            pstmt = connection.prepareStatement(query);
+            pstmt.setInt(1, limite);
+            rs = pstmt.executeQuery();
+            String nombreArchivo = limite + ".txt";
+            writer = new BufferedWriter(new FileWriter(nombreArchivo));
+            
+            if (rs.next()) {
+                do {
+                    String documento = rs.getString("documento");
+                    writer.write(documento);
+                    writer.newLine(); // Nueva línea para cada resultado
+                } while (rs.next());
+                System.out.println("Resultados escritos en el archivo: " + nombreArchivo);
+            } else {
+                System.out.println("Sin resultados");
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+            System.out.println("Error en consulta");
+        }finally {
+            // Cerrar recursos
+            try {
+                if (rs != null) rs.close();
+                if (pstmt != null) pstmt.close();
+                if (writer != null) writer.close();
+            } catch (IOException | SQLException e) {
+                e.printStackTrace();
+            }
+        }
     }
 
 
