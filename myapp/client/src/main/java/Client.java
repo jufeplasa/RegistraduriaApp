@@ -7,7 +7,7 @@ import Demo.File;
 
 public class Client {
     private static String subscriberID;
-    private static Consulta consulta;
+    private static Worker worker;
     private static final String MESSAGE_LIMIT = "END_OF_DOCUMENTS";
     /*
      * START STATIC CLASS FileI
@@ -42,9 +42,9 @@ public class Client {
                 System.out.println("Procesando lote de documentos...");
                 for (String doc : avaibleDocs) {
                     int document= Integer.parseInt(doc);
-                    consulta.findInfoById(document);
-                    // Llamar a tu método para consultar en la BD aquí
+                    worker.doTask(document);
                 }
+                worker.sendTask();
                 avaibleDocs.clear();
             }
         }
@@ -55,7 +55,7 @@ public class Client {
 
     public static void main(String[] args){
 
-        consulta = new Consulta(args);
+        worker = new Worker(args);
         java.util.List<String> extraArgs = new java.util.ArrayList<String>();
         com.zeroc.Ice.Communicator communicator = com.zeroc.Ice.Util.initialize(args, "config.sub", extraArgs);
         com.zeroc.Ice.ObjectPrx obj = communicator.propertyToProxy("TopicManager.Proxy");
@@ -87,7 +87,7 @@ public class Client {
             try
             {
                 topicF.unsubscribe(subscriberF);
-                consulta.disconect();
+                worker.disconect();
             }
             finally
             {

@@ -58,7 +58,7 @@ public class QueryServiceI implements Demo.QueryService{
                 String direccion = rs.getString("direccion");
                 String municipio = rs.getString("municipio");
                 String departamento = rs.getString("departamento");
-                message="Nombre: " + nombre + "\nMesa: " + mesa + "\nDireccion: " + direccion + "\nMunicipio: " + municipio + "\nDepartamento: " + departamento;
+                message="Nombre: " + nombre + " Mesa: " + mesa + " Direccion: " + direccion + " Municipio: " + municipio + " Departamento: " + departamento;
             } else {
                 System.out.println("No se encontraron resultados para el documento: " + document);
             }

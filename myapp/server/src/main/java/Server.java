@@ -4,8 +4,6 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.List;
 import java.util.ArrayList;
 import Demo.*;
@@ -16,10 +14,12 @@ public class Server {
     private static Consulta consulta;
     private static Scanner scanner;
     private static FilePrx file;
+    private static FileGenerator fileGenerator;
     private static com.zeroc.IceStorm.TopicManagerPrx manager;
     private static com.zeroc.Ice.ObjectPrx publisher;
     private static com.zeroc.IceStorm.TopicPrx topic;
     private static com.zeroc.Ice.Communicator communicator;
+    private static com.zeroc.Ice.Communicator communicator2;
 
 
     public static void main(String[] args) {
@@ -29,9 +29,20 @@ public class Server {
         try
         {
             communicator = com.zeroc.Ice.Util.initialize(args, "config.pub", extraArgs);
-            communicator.getProperties().setProperty("Ice.Default.Package", "com.zeroc.demos.IceStorm.clock");
-            Runtime.getRuntime().addShutdownHook(new Thread(() -> communicator.destroy()));
 
+            communicator2 = com.zeroc.Ice.Util.initialize(args, "config.server", extraArgs);
+            com.zeroc.Ice.ObjectAdapter adapter = communicator2.createObjectAdapter("Master");
+            fileGenerator = new FileGenerator();
+            com.zeroc.Ice.Object object = fileGenerator;
+            adapter.add(object, com.zeroc.Ice.Util.stringToIdentity("SimpleMaster"));
+            adapter.activate();
+
+            Thread fileGeneratorThread = new Thread(() -> {
+                communicator2.waitForShutdown();
+            });
+            fileGeneratorThread.start();
+
+            communicator.getProperties().setProperty("Ice.Default.Package", "com.zeroc.demos.IceStorm.clock");
             run(communicator, extraArgs.toArray(new String[extraArgs.size()]));
             scanner=new Scanner(System.in);
             consulta = new Consulta(args);
@@ -40,10 +51,14 @@ public class Server {
             
         }
         finally {
-            scanner.close(); 
-            communicator.destroy(); 
-            consulta.disconect();
-            System.out.println("Desconexion base de datos");
+            Runtime.getRuntime().addShutdownHook(new Thread(() -> {
+                scanner.close(); 
+                communicator.destroy();
+                communicator2.destroy();
+                consulta.disconect();
+                System.out.println("Desconexion base de datos");
+            }));
+            System.exit(0);
         }
     }
 
@@ -87,13 +102,10 @@ public class Server {
     public static void doOptions(int option){
         switch (option) {
             case 1:
-                System.out.println("Implementacion de muchas consultas por un archivo");
+                System.out.println("Ingrese la ruta del archivo");
                 int text=scanner.nextInt();
-                long startTime = System.currentTimeMillis();
-                leerArchivo("C:\\Users\\jufep\\OneDrive\\Escritorio\\11vo semestre\\ingesoft4\\proyecto\\Documentos\\"+text+".txt");
-                long endTime = System.currentTimeMillis();
-                long elapsedTime = endTime - startTime;
-                System.out.println("Tiempo de ejecución: " + elapsedTime + " ms");
+                String path ="C:\\Users\\jufep\\OneDrive\\Escritorio\\11vo semestre\\ingesoft4\\proyecto\\Documentos\\"+text+".txt";
+                fileGenerator.readFile(path, getSubs(), file);
                 break;
             case 2:
                 System.out.println("Ingresa un numero de documentos ");
@@ -128,8 +140,6 @@ public class Server {
         } catch (IOException | InterruptedException e) {
             e.printStackTrace();
         }
-        // Mostrar los suscriptores y el tamaño del ArrayList
-        System.out.println("Subscribers: " + subscribers);
         return subscribers;
     }
     /*
@@ -142,72 +152,6 @@ public class Server {
         System.out.println("3: Salir de la aplicacion");
     }
 
-    public static void leerArchivo(String ruta) {
-        List<String> subscribers = getSubs(); 
-        BufferedReader reader = null;
-        try { 
-            reader = new BufferedReader(new FileReader(ruta));
-            String linea;
-            long numeroDeLineas = Files.lines(Paths.get(ruta)).count();
-            System.out.println("Numero total de lineas: " + numeroDeLineas);
-
-            // Dividir las líneas entre los suscriptores
-            int numSubscribers = subscribers.size();
-            int linesPerSubscriber = (int) Math.ceil((double) numeroDeLineas / numSubscribers);
-
-            int currentSubscriber = 0;
-            int currentLine = 0;
-            System.out.println(subscribers.get(currentSubscriber));
-            file.Share(subscribers.get(currentSubscriber));
-            while ((linea = reader.readLine()) != null) {
-                System.out.println(linea);
-                file.Share(linea);
-                currentLine++;
-                if (currentLine >= linesPerSubscriber) {
-                    System.out.println(currentLine);
-                    currentLine = 0;
-                    currentSubscriber++;
-                    if (currentSubscriber >= numSubscribers) {
-                        currentSubscriber = 0;
-                    }
-                    System.out.println(subscribers.get(currentSubscriber));
-                    file.Share(subscribers.get(currentSubscriber));
-                }
-            }
-            System.out.println("END_OF_DOCUMENTS");
-            file.Share("END_OF_DOCUMENTS");
-        } catch (IOException e) {
-            // Manejo de errores
-            System.out.println("Error al leer el archivo: " + e.getMessage());
-        }finally {
-            // Cerrar el archivo después de usarlo
-            try {
-                if (reader != null) {
-                    reader.close();
-                }
-            } catch (IOException e) {
-                System.out.println("Error al cerrar el archivo: " + e.getMessage());
-            }
-        }
-    }
-    
-
-
-    
-    /*
-     * Metodo que calcula los factores
-     */
-    public static String findfactors(int n  ){
-        String factores="[";
-        for (long i = 2; i <= n; i++) {
-            while (n % i == 0) {
-                factores+=i+" ";
-                n /= i;
-            }
-        }
-        factores+="]";
-        return factores.toString();
-    }
     /*
     * Metodo alternativo que funciona para ejecutar la búsqueda desde el mismo nodo de procesamiento.
     */
