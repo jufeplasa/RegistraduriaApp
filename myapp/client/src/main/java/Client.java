@@ -1,5 +1,6 @@
 import com.zeroc.Ice.Current;
 import java.util.ArrayList;
+import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
@@ -9,7 +10,7 @@ public class Client {
     private static String subscriberID;
     private static Worker worker;
     private static final String MESSAGE_LIMIT = "END_OF_DOCUMENTS";
-    private static final int THREAD_POOL_SIZE = 3; // Definir el tamaño del thread pool
+    private static final int THREAD_POOL_SIZE = 5; // Definir el tamaño del thread pool
     private static ExecutorService executorService; // ExecutorService para manejar los threads
 
     /*
@@ -41,20 +42,34 @@ public class Client {
          */
         private void processBatch() {
             if (!avaibleDocs.isEmpty()) {
-                // Simular consulta en la base de datos
                 System.out.println("Procesando lote de documentos...");
+                CountDownLatch latch = new CountDownLatch(avaibleDocs.size());
                 for (String doc : avaibleDocs) {
-                    // Crear tarea para cada documento en el ThreadPool
-                    final int document = Integer.parseInt(doc);
-                    executorService.submit(() -> {
-                        worker.doTask(document);  // Ejecutar la tarea en el worker
-                    });
+                    try {
+                        final int document = Integer.parseInt(doc);
+                        executorService.submit(() -> {
+                            try {
+                                worker.doTask(document);  // Ejecutar la tarea en el worker
+                            } finally {
+                                latch.countDown();  // Reducir el conteo cuando termine la tarea
+                                worker.updateConsult();
+                            }
+                        });
+                    } catch (NumberFormatException e) {
+                        System.err.println("Documento inválido: " + doc);
+                    }
                 }
-                // Opcional: Esperar a que todas las tareas terminen si es necesario
-                // executorService.shutdown(); // Cerrar el pool después de procesar todas las tareas
+                try {
+                    latch.await();  // Esperar a que todas las tareas finalicen
+                    worker.sendTask();  // Enviar el resultado después de que todas las tareas terminen
+                } catch (InterruptedException e) {
+                    Thread.currentThread().interrupt();
+                    System.err.println("El proceso fue interrumpido.");
+                }
                 avaibleDocs.clear();
             }
         }
+
     }
     /*
      * END STATIC CLASS FileI

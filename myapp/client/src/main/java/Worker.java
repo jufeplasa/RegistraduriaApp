@@ -43,6 +43,20 @@ public class Worker {
         System.out.println("Resultados enviados");
         proccessedDocuments.clear();
     }
+    
+    public void updateConsult(){
+        try{
+        QueryPrx query = QueryPrx.checkedCast(communicator.stringToProxy("DemoIceGrid/Query"));
+            consult = QueryServicePrx.checkedCast(query.findObjectByType("::Demo::QueryService"));
+        }catch (com.zeroc.Ice.LocalException ex) {
+            System.err.println("Error initializing Ice communicator or proxy: " + ex.getMessage());
+            ex.printStackTrace();
+        } catch (Exception ex) {
+            System.err.println("Unexpected error: " + ex.getMessage());
+            ex.printStackTrace();
+        }
+    }
+
 
     /*
      * Metodo que calcula los factores
@@ -60,11 +74,12 @@ public class Worker {
     }
 
     public void disconect(){
-            try {
-                communicator.destroy(); 
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-        }
+        try {
+            communicator.destroy(); 
+        } 
+        catch (Exception e) {
+            e.printStackTrace();
+        }  
+    }
 }
 
