@@ -21,6 +21,9 @@ plugins {
     dependencies {
         implementation 'com.zeroc:ice:3.7.10'
         implementation 'com.zeroc:icestorm:3.7.10'
+        implementation 'com.zeroc:icegrid:3.7.10' // Cambia la versión según la que necesites
+        implementation 'com.zeroc:icelocatordiscovery:3.7.10' // Cambia la versión según la que necesites
+
         implementation 'org.postgresql:postgresql:42.2.24'
 
     }

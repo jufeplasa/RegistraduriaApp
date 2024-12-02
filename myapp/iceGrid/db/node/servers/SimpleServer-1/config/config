@@ -1,0 +1,12 @@
+# Configuration file (12/02/24 06:24:28.955)
+
+# Server configuration
+Ice.Admin.ServerId=SimpleServer-1
+Ice.Admin.Endpoints=tcp -h localhost
+Ice.ProgramName=SimpleServer-1
+# Object adapter QueryService
+QueryService.Endpoints=tcp -h localhost
+QueryService.AdapterId=SimpleServer-1.QueryService
+# Server descriptor properties
+Identity=queryService-1
+Ice.Default.Locator=DemoIceGrid/Locator:default -h localhost -p 4061

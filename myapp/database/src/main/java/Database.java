@@ -6,8 +6,9 @@ public class Database {
     {
         java.util.List<String> extraArgs = new java.util.ArrayList<String>();
 
-        try(com.zeroc.Ice.Communicator communicator = com.zeroc.Ice.Util.initialize(args,"config.db",extraArgs))
+        try(com.zeroc.Ice.Communicator communicator = com.zeroc.Ice.Util.initialize(args,extraArgs))
         {
+            communicator.getProperties().setProperty("Ice.Default.Package", "com.zeroc.demos.IceGrid.simple");
             if(!extraArgs.isEmpty())
             {
                 System.err.println("too many arguments");
@@ -16,13 +17,16 @@ public class Database {
                 }
             }
             com.zeroc.Ice.ObjectAdapter adapter = communicator.createObjectAdapter("QueryService");
-            QueryServiceI queryService = new QueryServiceI();
-            com.zeroc.Ice.Object object = queryService;
-            adapter.add(object, com.zeroc.Ice.Util.stringToIdentity("SimpleQueryService"));
+            // QueryServiceI queryService = new QueryServiceI();
+            // com.zeroc.Ice.Object object = queryService;
+            // adapter.add(object, com.zeroc.Ice.Util.stringToIdentity("SimpleQueryService"));
+            com.zeroc.Ice.Properties properties = communicator.getProperties();
+            com.zeroc.Ice.Identity id = com.zeroc.Ice.Util.stringToIdentity(properties.getProperty("Identity"));
+            adapter.add(new QueryServiceI(), id);
             adapter.activate();
             Runtime.getRuntime().addShutdownHook(new Thread(() -> {
                 System.out.println("Intercepted shutdown signal. Closing resources...");
-                queryService.disconect();
+                communicator.destroy();
             }));
             communicator.waitForShutdown();
         }

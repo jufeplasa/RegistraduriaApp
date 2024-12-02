@@ -1,5 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
+import com.zeroc.IceGrid.QueryPrx;
+import Demo.*;
 
 public class Worker {
 
@@ -12,7 +14,9 @@ public class Worker {
         try{
             proccessedDocuments = new ArrayList<String>();
             communicator = com.zeroc.Ice.Util.initialize(args,"config.client");
-            consult = Demo.QueryServicePrx.checkedCast(communicator.propertyToProxy("QueryService.Proxy"));
+            // consult = Demo.QueryServicePrx.checkedCast(communicator.propertyToProxy("QueryService.Proxy"));
+            QueryPrx query = QueryPrx.checkedCast(communicator.stringToProxy("DemoIceGrid/Query"));
+            consult = QueryServicePrx.checkedCast(query.findObjectByType("::Demo::QueryService"));
             masterPrx = Demo.MasterPrx.checkedCast(communicator.propertyToProxy("Master.Proxy"));
             if(consult == null)
             {
