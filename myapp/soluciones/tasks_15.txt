@@ -1,0 +1,472 @@
+Nombre: Dionisio Mesa: 6 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Sebastian Mesa: 7 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Cristobal Mesa: 8 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Ana Belen Mesa: 1 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Antonia Mesa: 2 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Jose Mesa: 3 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Rita Mesa: 4 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Borja Mesa: 5 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Toni Mesa: 6 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Nereida Mesa: 7 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Teo Mesa: 8 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Maria Teresa Mesa: 1 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Debora Mesa: 2 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Heriberto Mesa: 3 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Danilo Mesa: 4 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Guillermo Mesa: 5 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Magdalena Mesa: 6 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Clarisa Mesa: 7 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Isaura Mesa: 8 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Carina Mesa: 1 Direccion: Pasadizo Rosario Olive 73 Puerta 5 , Alicante, 47484 Municipio: PIVIJAY Departamento: MAGDALENA
+Nombre: Julia Mesa: 2 Direccion: Pasadizo Rosario Olive 73 Puerta 5 , Alicante, 47484 Municipio: PIVIJAY Departamento: MAGDALENA
+Nombre: Santiago Mesa: 3 Direccion: Pasadizo Rosario Olive 73 Puerta 5 , Alicante, 47484 Municipio: PIVIJAY Departamento: MAGDALENA
+Nombre: Juan Francisco Mesa: 6 Direccion: Pasaje Flavia Santamaria 1, Pontevedra, 48552 Municipio: URIBIA Departamento: LA GUAJIRA
+Nombre: Ariel Mesa: 7 Direccion: Pasaje Flavia Santamaria 1, Pontevedra, 48552 Municipio: URIBIA Departamento: LA GUAJIRA
+Nombre: Marianela Mesa: 8 Direccion: Pasaje Flavia Santamaria 1, Pontevedra, 48552 Municipio: URIBIA Departamento: LA GUAJIRA
+Nombre: Chita Mesa: 1 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Dafne Mesa: 2 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Jenaro Mesa: 3 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Alondra Mesa: 4 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Alcides Mesa: 5 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Isaias Mesa: 6 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Ester Mesa: 7 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Ruperto Mesa: 8 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Sonia Mesa: 1 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Toribio Mesa: 2 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Josep Mesa: 3 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Mayte Mesa: 4 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Juliana Mesa: 5 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Rosendo Mesa: 6 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Noa Mesa: 7 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Tamara Mesa: 8 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Maria Luisa Mesa: 1 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Lidia Mesa: 2 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Americo Mesa: 3 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Azucena Mesa: 4 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Vicente Mesa: 5 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Candido Mesa: 6 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Amilcar Mesa: 7 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Eva Maria Mesa: 8 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Mamen Mesa: 1 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Mateo Mesa: 2 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Pastor Mesa: 3 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Viviana Mesa: 4 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Africa Mesa: 5 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Martirio Mesa: 6 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Felicia Mesa: 7 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Yesica Mesa: 8 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Ariel Mesa: 1 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Ale Mesa: 2 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Gaston Mesa: 3 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Africa Mesa: 4 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Jessica Mesa: 5 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Joaquina Mesa: 6 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Cebrian Mesa: 7 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Ignacio Mesa: 8 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Magdalena Mesa: 1 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Ceferino Mesa: 2 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Ursula Mesa: 3 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Maria Jose Mesa: 4 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Adelardo Mesa: 5 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Paola Mesa: 6 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Jose Ignacio Mesa: 7 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Urbano Mesa: 8 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Jennifer Mesa: 1 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Sabas Mesa: 2 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Candida Mesa: 3 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Valero Mesa: 4 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Hermenegildo Mesa: 5 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Maria Luisa Mesa: 6 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Amaro Mesa: 7 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Ariel Mesa: 8 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Jose Manuel Mesa: 1 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Alfredo Mesa: 2 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Raquel Mesa: 3 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Vasco Mesa: 4 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Agapito Mesa: 5 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Marcial Mesa: 6 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Fermin Mesa: 7 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Demetrio Mesa: 8 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Isaac Mesa: 1 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Armando Mesa: 2 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Juan Francisco Mesa: 3 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Vicente Mesa: 4 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Paula Mesa: 5 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Cristina Mesa: 6 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Sergio Mesa: 7 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Chucho Mesa: 8 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Jose Antonio Mesa: 1 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Lidia Mesa: 2 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Encarnita Mesa: 3 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Enrique Mesa: 4 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Norberto Mesa: 5 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Erasmo Mesa: 6 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Dominga Mesa: 7 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Ignacia Mesa: 8 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Basilio Mesa: 1 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Saturnino Mesa: 2 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Leonor Mesa: 3 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Ramona Mesa: 4 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Mario Mesa: 5 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Isidoro Mesa: 6 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Clara Mesa: 7 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Jenaro Mesa: 8 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Fabiana Mesa: 1 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Cristian Mesa: 2 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Juana Mesa: 3 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Jose Antonio Mesa: 4 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Clarisa Mesa: 5 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Victor Mesa: 6 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Ines Mesa: 7 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Candido Mesa: 8 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Venceslas Mesa: 1 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Roberto Mesa: 2 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Jennifer Mesa: 3 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Fulgencio Mesa: 4 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Noemi Mesa: 5 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Ramiro Mesa: 6 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Roman Mesa: 7 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Teobaldo Mesa: 8 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Ale Mesa: 1 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Bonifacio Mesa: 2 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Lisandro Mesa: 3 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Paula Mesa: 4 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Eligio Mesa: 5 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Irma Mesa: 6 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Leocadia Mesa: 7 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Elisabet Mesa: 8 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Monica Mesa: 1 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Ernesto Mesa: 2 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Francisca Mesa: 3 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Febe Mesa: 4 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Paloma Mesa: 5 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Cintia Mesa: 6 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Alonso Mesa: 7 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Toribio Mesa: 8 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Gertrudis Mesa: 1 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Berto Mesa: 2 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Vanesa Mesa: 3 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Jesusa Mesa: 4 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Wilfredo Mesa: 5 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Dionisio Mesa: 6 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Sebastian Mesa: 7 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Cristobal Mesa: 8 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Ana Belen Mesa: 1 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Antonia Mesa: 2 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Jose Mesa: 3 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Rita Mesa: 4 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Borja Mesa: 5 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Toni Mesa: 6 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Nereida Mesa: 7 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Teo Mesa: 8 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Maria Teresa Mesa: 1 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Debora Mesa: 2 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Heriberto Mesa: 3 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Danilo Mesa: 4 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Guillermo Mesa: 5 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Magdalena Mesa: 6 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Clarisa Mesa: 7 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Isaura Mesa: 8 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Carina Mesa: 1 Direccion: Pasadizo Rosario Olive 73 Puerta 5 , Alicante, 47484 Municipio: PIVIJAY Departamento: MAGDALENA
+Nombre: Julia Mesa: 2 Direccion: Pasadizo Rosario Olive 73 Puerta 5 , Alicante, 47484 Municipio: PIVIJAY Departamento: MAGDALENA
+Nombre: Santiago Mesa: 3 Direccion: Pasadizo Rosario Olive 73 Puerta 5 , Alicante, 47484 Municipio: PIVIJAY Departamento: MAGDALENA
+Nombre: Juan Francisco Mesa: 6 Direccion: Pasaje Flavia Santamaria 1, Pontevedra, 48552 Municipio: URIBIA Departamento: LA GUAJIRA
+Nombre: Ariel Mesa: 7 Direccion: Pasaje Flavia Santamaria 1, Pontevedra, 48552 Municipio: URIBIA Departamento: LA GUAJIRA
+Nombre: Marianela Mesa: 8 Direccion: Pasaje Flavia Santamaria 1, Pontevedra, 48552 Municipio: URIBIA Departamento: LA GUAJIRA
+Nombre: Chita Mesa: 1 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Dafne Mesa: 2 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Jenaro Mesa: 3 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Alondra Mesa: 4 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Alcides Mesa: 5 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Isaias Mesa: 6 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Ester Mesa: 7 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Ruperto Mesa: 8 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Sonia Mesa: 1 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Toribio Mesa: 2 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Josep Mesa: 3 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Mayte Mesa: 4 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Juliana Mesa: 5 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Rosendo Mesa: 6 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Noa Mesa: 7 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Tamara Mesa: 8 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Maria Luisa Mesa: 1 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Lidia Mesa: 2 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Americo Mesa: 3 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Azucena Mesa: 4 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Vicente Mesa: 5 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Candido Mesa: 6 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Amilcar Mesa: 7 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Eva Maria Mesa: 8 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Mamen Mesa: 1 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Mateo Mesa: 2 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Pastor Mesa: 3 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Viviana Mesa: 4 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Africa Mesa: 5 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Martirio Mesa: 6 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Felicia Mesa: 7 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Yesica Mesa: 8 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Ariel Mesa: 1 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Ale Mesa: 2 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Gaston Mesa: 3 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Africa Mesa: 4 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Jessica Mesa: 5 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Joaquina Mesa: 6 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Cebrian Mesa: 7 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Ignacio Mesa: 8 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Magdalena Mesa: 1 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Ceferino Mesa: 2 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Ursula Mesa: 3 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Maria Jose Mesa: 4 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Adelardo Mesa: 5 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Paola Mesa: 6 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Jose Ignacio Mesa: 7 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Urbano Mesa: 8 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Jennifer Mesa: 1 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Sabas Mesa: 2 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Candida Mesa: 3 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Valero Mesa: 4 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Hermenegildo Mesa: 5 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Maria Luisa Mesa: 6 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Amaro Mesa: 7 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Ariel Mesa: 8 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Jose Manuel Mesa: 1 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Alfredo Mesa: 2 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Raquel Mesa: 3 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Vasco Mesa: 4 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Agapito Mesa: 5 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Marcial Mesa: 6 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Fermin Mesa: 7 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Demetrio Mesa: 8 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Isaac Mesa: 1 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Armando Mesa: 2 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Juan Francisco Mesa: 3 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Vicente Mesa: 4 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Paula Mesa: 5 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Cristina Mesa: 6 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Sergio Mesa: 7 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Chucho Mesa: 8 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Jose Antonio Mesa: 1 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Lidia Mesa: 2 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Encarnita Mesa: 3 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Enrique Mesa: 4 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Norberto Mesa: 5 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Erasmo Mesa: 6 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Dominga Mesa: 7 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Ignacia Mesa: 8 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Basilio Mesa: 1 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Saturnino Mesa: 2 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Leonor Mesa: 3 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Ramona Mesa: 4 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Mario Mesa: 5 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Isidoro Mesa: 6 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Clara Mesa: 7 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Jenaro Mesa: 8 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Fabiana Mesa: 1 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Cristian Mesa: 2 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Juana Mesa: 3 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Jose Antonio Mesa: 4 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Clarisa Mesa: 5 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Victor Mesa: 6 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Ines Mesa: 7 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Candido Mesa: 8 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Venceslas Mesa: 1 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Roberto Mesa: 2 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Jennifer Mesa: 3 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Fulgencio Mesa: 4 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Noemi Mesa: 5 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Ramiro Mesa: 6 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Roman Mesa: 7 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Teobaldo Mesa: 8 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Ale Mesa: 1 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Bonifacio Mesa: 2 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Lisandro Mesa: 3 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Paula Mesa: 4 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Eligio Mesa: 5 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Irma Mesa: 6 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Leocadia Mesa: 7 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Elisabet Mesa: 8 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Monica Mesa: 1 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Ernesto Mesa: 2 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Francisca Mesa: 3 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Febe Mesa: 4 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Paloma Mesa: 5 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Cintia Mesa: 6 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Alonso Mesa: 7 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Toribio Mesa: 8 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Gertrudis Mesa: 1 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Berto Mesa: 2 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Vanesa Mesa: 3 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Jesusa Mesa: 4 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Wilfredo Mesa: 5 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Dionisio Mesa: 6 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Sebastian Mesa: 7 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Cristobal Mesa: 8 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Ana Belen Mesa: 1 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Antonia Mesa: 2 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Jose Mesa: 3 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Rita Mesa: 4 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Borja Mesa: 5 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Toni Mesa: 6 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Nereida Mesa: 7 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Teo Mesa: 8 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Maria Teresa Mesa: 1 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Debora Mesa: 2 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Heriberto Mesa: 3 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Danilo Mesa: 4 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Guillermo Mesa: 5 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Magdalena Mesa: 6 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Clarisa Mesa: 7 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Isaura Mesa: 8 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Carina Mesa: 1 Direccion: Pasadizo Rosario Olive 73 Puerta 5 , Alicante, 47484 Municipio: PIVIJAY Departamento: MAGDALENA
+Nombre: Julia Mesa: 2 Direccion: Pasadizo Rosario Olive 73 Puerta 5 , Alicante, 47484 Municipio: PIVIJAY Departamento: MAGDALENA
+Nombre: Santiago Mesa: 3 Direccion: Pasadizo Rosario Olive 73 Puerta 5 , Alicante, 47484 Municipio: PIVIJAY Departamento: MAGDALENA
+Nombre: Juan Francisco Mesa: 6 Direccion: Pasaje Flavia Santamaria 1, Pontevedra, 48552 Municipio: URIBIA Departamento: LA GUAJIRA
+Nombre: Ariel Mesa: 7 Direccion: Pasaje Flavia Santamaria 1, Pontevedra, 48552 Municipio: URIBIA Departamento: LA GUAJIRA
+Nombre: Marianela Mesa: 8 Direccion: Pasaje Flavia Santamaria 1, Pontevedra, 48552 Municipio: URIBIA Departamento: LA GUAJIRA
+Nombre: Chita Mesa: 1 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Dafne Mesa: 2 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Jenaro Mesa: 3 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Alondra Mesa: 4 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Alcides Mesa: 5 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Isaias Mesa: 6 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Ester Mesa: 7 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Ruperto Mesa: 8 Direccion: Cuesta Paloma Nebot 79, Alava, 49111 Municipio: URUMITA Departamento: LA GUAJIRA
+Nombre: Sonia Mesa: 1 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Toribio Mesa: 2 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Josep Mesa: 3 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Mayte Mesa: 4 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Juliana Mesa: 5 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Rosendo Mesa: 6 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Noa Mesa: 7 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Tamara Mesa: 8 Direccion: Camino Ildefonso Reig 1, Valladolid, 07212 Municipio: VILLANUEVA Departamento: LA GUAJIRA
+Nombre: Maria Luisa Mesa: 1 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Lidia Mesa: 2 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Americo Mesa: 3 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Azucena Mesa: 4 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Vicente Mesa: 5 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Candido Mesa: 6 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Amilcar Mesa: 7 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Eva Maria Mesa: 8 Direccion: Calle Rene Galvan 781, Asturias, 43989 Municipio: SANTA MARTA Departamento: MAGDALENA
+Nombre: Mamen Mesa: 1 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Mateo Mesa: 2 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Pastor Mesa: 3 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Viviana Mesa: 4 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Africa Mesa: 5 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Martirio Mesa: 6 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Felicia Mesa: 7 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Yesica Mesa: 8 Direccion: Rambla Ale Moll 7, Santa Cruz de Tenerife, 02237 Municipio: ALGARROBO Departamento: MAGDALENA
+Nombre: Ariel Mesa: 1 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Ale Mesa: 2 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Gaston Mesa: 3 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Africa Mesa: 4 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Jessica Mesa: 5 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Joaquina Mesa: 6 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Cebrian Mesa: 7 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Ignacio Mesa: 8 Direccion: Cuesta Ema Folch 9 Apt. 25 , Alicante, 51912 Municipio: ARACATACA Departamento: MAGDALENA
+Nombre: Magdalena Mesa: 1 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Ceferino Mesa: 2 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Ursula Mesa: 3 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Maria Jose Mesa: 4 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Adelardo Mesa: 5 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Paola Mesa: 6 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Jose Ignacio Mesa: 7 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Urbano Mesa: 8 Direccion: Glorieta de Azucena Blasco 7, Malaga, 06747 Municipio: ARIGUANÍ Departamento: MAGDALENA
+Nombre: Jennifer Mesa: 1 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Sabas Mesa: 2 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Candida Mesa: 3 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Valero Mesa: 4 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Hermenegildo Mesa: 5 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Maria Luisa Mesa: 6 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Amaro Mesa: 7 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Ariel Mesa: 8 Direccion: C. de Concepcion Narvaez 968 Apt. 47 , La Rioja, 17503 Municipio: CERRO DE SAN ANTONIO Departamento: MAGDALENA
+Nombre: Jose Manuel Mesa: 1 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Alfredo Mesa: 2 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Raquel Mesa: 3 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Vasco Mesa: 4 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Agapito Mesa: 5 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Marcial Mesa: 6 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Fermin Mesa: 7 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Demetrio Mesa: 8 Direccion: Via de Raimundo Mancebo 86, Albacete, 39000 Municipio: CHIVOLO Departamento: MAGDALENA
+Nombre: Isaac Mesa: 1 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Armando Mesa: 2 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Juan Francisco Mesa: 3 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Vicente Mesa: 4 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Paula Mesa: 5 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Cristina Mesa: 6 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Sergio Mesa: 7 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Chucho Mesa: 8 Direccion: Ronda de Gerardo Higueras 5 Puerta 2 , Sevilla, 37778 Municipio: CIÉNAGA Departamento: MAGDALENA
+Nombre: Jose Antonio Mesa: 1 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Lidia Mesa: 2 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Encarnita Mesa: 3 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Enrique Mesa: 4 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Norberto Mesa: 5 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Erasmo Mesa: 6 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Dominga Mesa: 7 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Ignacia Mesa: 8 Direccion: Cuesta de Paola Coloma 49 Piso 3 , Huesca, 12491 Municipio: CONCORDIA Departamento: MAGDALENA
+Nombre: Basilio Mesa: 1 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Saturnino Mesa: 2 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Leonor Mesa: 3 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Ramona Mesa: 4 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Mario Mesa: 5 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Isidoro Mesa: 6 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Clara Mesa: 7 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Jenaro Mesa: 8 Direccion: Urbanizacion de Aitana Ramirez 8, Asturias, 10727 Municipio: EL BANCO Departamento: MAGDALENA
+Nombre: Fabiana Mesa: 1 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Cristian Mesa: 2 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Juana Mesa: 3 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Jose Antonio Mesa: 4 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Clarisa Mesa: 5 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Victor Mesa: 6 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Ines Mesa: 7 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Candido Mesa: 8 Direccion: Pasadizo de Amado Prado 9 Apt. 92 , Zamora, 48960 Municipio: EL PIÑÓN Departamento: MAGDALENA
+Nombre: Venceslas Mesa: 1 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Roberto Mesa: 2 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Jennifer Mesa: 3 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Fulgencio Mesa: 4 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Noemi Mesa: 5 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Ramiro Mesa: 6 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Roman Mesa: 7 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Teobaldo Mesa: 8 Direccion: Vial de Ainara Salva 28 Piso 4 , Ceuta, 31031 Municipio: EL RETÉN Departamento: MAGDALENA
+Nombre: Ale Mesa: 1 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Bonifacio Mesa: 2 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Lisandro Mesa: 3 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Paula Mesa: 4 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Eligio Mesa: 5 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Irma Mesa: 6 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Leocadia Mesa: 7 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Elisabet Mesa: 8 Direccion: Vial de Yolanda Abril 8, Guipuzcoa, 10353 Municipio: FUNDACIÓN Departamento: MAGDALENA
+Nombre: Monica Mesa: 1 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Ernesto Mesa: 2 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Francisca Mesa: 3 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Febe Mesa: 4 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Paloma Mesa: 5 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Cintia Mesa: 6 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Alonso Mesa: 7 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Toribio Mesa: 8 Direccion: Canada Manuela Sancho 7 Piso 5 , Huelva, 01319 Municipio: GUAMAL Departamento: MAGDALENA
+Nombre: Gertrudis Mesa: 1 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Berto Mesa: 2 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Vanesa Mesa: 3 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Jesusa Mesa: 4 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Wilfredo Mesa: 5 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Dionisio Mesa: 6 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Sebastian Mesa: 7 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Cristobal Mesa: 8 Direccion: Alameda de Dolores Alonso 89, Santa Cruz de Tenerife, 07083 Municipio: NUEVA GRANADA Departamento: MAGDALENA
+Nombre: Ana Belen Mesa: 1 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Antonia Mesa: 2 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Jose Mesa: 3 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Rita Mesa: 4 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Borja Mesa: 5 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Toni Mesa: 6 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Nereida Mesa: 7 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Teo Mesa: 8 Direccion: Paseo de Marcio Canete 46, Huesca, 31338 Municipio: PEDRAZA Departamento: MAGDALENA
+Nombre: Maria Teresa Mesa: 1 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Debora Mesa: 2 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Heriberto Mesa: 3 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Danilo Mesa: 4 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Guillermo Mesa: 5 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Magdalena Mesa: 6 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Clarisa Mesa: 7 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Isaura Mesa: 8 Direccion: Glorieta Rita Lillo 629, Las Palmas, 04217 Municipio: PIJIÑO DEL CARMEN Departamento: MAGDALENA
+Nombre: Carina Mesa: 1 Direccion: Pasadizo Rosario Olive 73 Puerta 5 , Alicante, 47484 Municipio: PIVIJAY Departamento: MAGDALENA
+Nombre: Julia Mesa: 2 Direccion: Pasadizo Rosario Olive 73 Puerta 5 , Alicante, 47484 Municipio: PIVIJAY Departamento: MAGDALENA
+Nombre: Santiago Mesa: 3 Direccion: Pasadizo Rosario Olive 73 Puerta 5 , Alicante, 47484 Municipio: PIVIJAY Departamento: MAGDALENA

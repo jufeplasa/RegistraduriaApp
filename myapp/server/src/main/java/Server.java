@@ -104,7 +104,7 @@ public class Server {
             case 1:
                 System.out.println("Ingrese la ruta del archivo");
                 int text=scanner.nextInt();
-                String path ="C:\\Users\\jufep\\OneDrive\\Escritorio\\11vo semestre\\ingesoft4\\proyecto\\Documentos\\"+text+".txt";
+                String path ="C:\\Users\\User\\Downloads\\RegistraduriaApp\\Documentos\\"+text+".txt";
                 fileGenerator.readFile(path, getSubs(), file);
                 break;
             case 2:

@@ -78,23 +78,28 @@ public class FileGenerator implements Master {
 
     @Override
     public void receiveTask(String[] tasks, com.zeroc.Ice.Current current) {
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath,true))) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath, true))) {
             for (String task : tasks) {
-                writer.write(task);
-                writer.newLine();
+                // Sincronización para garantizar que solo un hilo escriba en el archivo a la vez
+                synchronized (this) {
+                    writer.write(task);
+                    writer.newLine();
+                }
                 currentLines++;
-                System.out.println(currentLines);
+                System.out.println("Escribiendo línea: " + currentLines);
             }
-            writer.flush();
-            if (currentLines>=linesNumber) {
+            writer.flush(); // Asegúrate de vaciar el buffer después de escribir todas las tareas
+            if (currentLines >= linesNumber) {
                 long endTime = System.currentTimeMillis();
                 long elapsedTime = endTime - startTime;
-                System.out.println("Tiempo de ejecucion: " + elapsedTime + " ms");
+                System.out.println("Tiempo de ejecución: " + elapsedTime + " ms");
             }
         } catch (IOException e) {
-            System.err.println("Error writing tasks to file: " + e.getMessage());
+            System.err.println("Error al escribir tareas en el archivo: " + e.getMessage());
         }
     }
+    
+    
 
     /**
      * Genera un nombre de archivo único basado en un consecutivo en la carpeta especificada.
@@ -110,4 +115,6 @@ public class FileGenerator implements Master {
 
         return filePath;
     }
+
+    
 }
