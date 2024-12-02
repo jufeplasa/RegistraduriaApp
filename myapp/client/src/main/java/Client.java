@@ -7,23 +7,55 @@ import Demo.File;
 
 public class Client {
     private static String subscriberID;
+    private static Consulta consulta;
+    private static final String MESSAGE_LIMIT = "END_OF_DOCUMENTS";
+    /*
+     * START STATIC CLASS FileI
+     */
     public static  class FileI implements File{
         private ArrayList<String> avaibleDocs = new ArrayList<String>();
         private boolean avaibleId;
+        /*
+         * Metodo de suscripcion al publicador
+         */
         @Override
         public void Share(String document, Current current) {
             if(document.length()==36){
                 avaibleId= document.equals(subscriberID);
             }else{
-                if(avaibleId){
+                if (document.equals(MESSAGE_LIMIT)) {
+                    processBatch();
+                }
+                else if (avaibleId) {
                     avaibleDocs.add(document);
+                    System.out.println("Documento recibido: " + document); 
                 }
             }
         }
+
+        /*
+         * Llama a la clase consulta realizar las consultas de los documentos disponibles.
+         */
+        private void processBatch() {
+            if (!avaibleDocs.isEmpty()) {
+                // Simular consulta en la base de datos
+                System.out.println("Procesando lote de documentos...");
+                for (String doc : avaibleDocs) {
+                    int document= Integer.parseInt(doc);
+                    consulta.findInfoById(document);
+                    // Llamar a tu método para consultar en la BD aquí
+                }
+                avaibleDocs.clear();
+            }
+        }
     }
+    /*
+     * END STATIC CLASS FileI
+     */
 
     public static void main(String[] args){
-        int status = 0;
+
+        consulta = new Consulta(args);
         java.util.List<String> extraArgs = new java.util.ArrayList<String>();
         com.zeroc.Ice.Communicator communicator = com.zeroc.Ice.Util.initialize(args, "config.sub", extraArgs);
         com.zeroc.Ice.ObjectPrx obj = communicator.propertyToProxy("TopicManager.Proxy");
@@ -55,6 +87,7 @@ public class Client {
             try
             {
                 topicF.unsubscribe(subscriberF);
+                consulta.disconect();
             }
             finally
             {

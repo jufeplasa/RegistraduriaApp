@@ -2,7 +2,7 @@
 #
 #
 QueryService.Proxy=SimpleQueryService:tcp -p 11800
-
+Master.Endpoints=tcp -p 11900
 
 # Only listen on the ZeroTier's LIASOn1 interface by default.
 #

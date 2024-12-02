@@ -28,11 +28,11 @@ public class Server {
         java.util.List<String> extraArgs = new java.util.ArrayList<String>();
         try
         {
-            // communicator = com.zeroc.Ice.Util.initialize(args, "config.pub", extraArgs);
-            // communicator.getProperties().setProperty("Ice.Default.Package", "com.zeroc.demos.IceStorm.clock");
-            // Runtime.getRuntime().addShutdownHook(new Thread(() -> communicator.destroy()));
+            communicator = com.zeroc.Ice.Util.initialize(args, "config.pub", extraArgs);
+            communicator.getProperties().setProperty("Ice.Default.Package", "com.zeroc.demos.IceStorm.clock");
+            Runtime.getRuntime().addShutdownHook(new Thread(() -> communicator.destroy()));
 
-            // run(communicator, extraArgs.toArray(new String[extraArgs.size()]));
+            run(communicator, extraArgs.toArray(new String[extraArgs.size()]));
             scanner=new Scanner(System.in);
             consulta = new Consulta(args);
             System.out.println("Conexion exitosa a la base de datos");
@@ -41,7 +41,7 @@ public class Server {
         }
         finally {
             scanner.close(); 
-            // communicator.destroy(); 
+            communicator.destroy(); 
             consulta.disconect();
             System.out.println("Desconexion base de datos");
         }
@@ -90,7 +90,7 @@ public class Server {
                 System.out.println("Implementacion de muchas consultas por un archivo");
                 int text=scanner.nextInt();
                 long startTime = System.currentTimeMillis();
-                leerArchivo2("C:\\Users\\jufep\\OneDrive\\Escritorio\\11vo semestre\\ingesoft4\\proyecto\\Documentos\\"+text+".txt");
+                leerArchivo("C:\\Users\\jufep\\OneDrive\\Escritorio\\11vo semestre\\ingesoft4\\proyecto\\Documentos\\"+text+".txt");
                 long endTime = System.currentTimeMillis();
                 long elapsedTime = endTime - startTime;
                 System.out.println("Tiempo de ejecución: " + elapsedTime + " ms");
@@ -157,19 +157,25 @@ public class Server {
 
             int currentSubscriber = 0;
             int currentLine = 0;
+            System.out.println(subscribers.get(currentSubscriber));
             file.Share(subscribers.get(currentSubscriber));
             while ((linea = reader.readLine()) != null) {
+                System.out.println(linea);
                 file.Share(linea);
                 currentLine++;
                 if (currentLine >= linesPerSubscriber) {
+                    System.out.println(currentLine);
                     currentLine = 0;
                     currentSubscriber++;
                     if (currentSubscriber >= numSubscribers) {
                         currentSubscriber = 0;
                     }
+                    System.out.println(subscribers.get(currentSubscriber));
                     file.Share(subscribers.get(currentSubscriber));
                 }
             }
+            System.out.println("END_OF_DOCUMENTS");
+            file.Share("END_OF_DOCUMENTS");
         } catch (IOException e) {
             // Manejo de errores
             System.out.println("Error al leer el archivo: " + e.getMessage());
@@ -202,7 +208,9 @@ public class Server {
         factores+="]";
         return factores.toString();
     }
-
+    /*
+    * Metodo alternativo que funciona para ejecutar la búsqueda desde el mismo nodo de procesamiento.
+    */
     public static void leerArchivo2(String ruta) {
         BufferedReader reader = null;
         try { 
