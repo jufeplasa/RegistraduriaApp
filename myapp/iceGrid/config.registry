@@ -4,11 +4,11 @@ IceGrid.InstanceName=DemoIceGrid
 #
 # Icegrid Registry config
 #
-IceGrid.Registry.Client.Endpoints=default -h localhost -p 4061
-IceGrid.Registry.Server.Endpoints=default -h localhost
-IceGrid.Registry.Internal.Endpoints=default -h localhost
+IceGrid.Registry.Client.Endpoints=default -h 172.30.161.158 -p 4061
+IceGrid.Registry.Server.Endpoints=default -h 172.30.161.158
+IceGrid.Registry.Internal.Endpoints=default -h 172.30.161.158
 IceGrid.Registry.AdminPermissionsVerifier=DemoIceGrid/NullPermissionsVerifier
 
 
 IceGrid.Registry.LMDB.Path=db/registry
-IceGrid.Registry.Discovery.Interface=127.0.0.1
+IceGrid.Registry.Discovery.Interface=172.30.161.158

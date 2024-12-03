@@ -1,8 +1,8 @@
 #
 # The IceGrid Locator proxy.
 #
-Ice.Default.Locator=DemoIceGrid/Locator:default -h localhost -p 4061
+Ice.Default.Locator=DemoIceGrid/Locator:default -h 172.30.161.158 -p 4061
 
 IceGrid.Node.Name=node1
-IceGrid.Node.Endpoints=default -h localhost
+IceGrid.Node.Endpoints=default -h 172.30.161.158
 IceGrid.Node.Data=db/node
